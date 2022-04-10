@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Restaurant>
+	<Users>
+		<User>
+			<Name>Adam Smith</Name>
+			<Role>Manager</Role>
+			<Username>adam</Username>
+			<Password>adam_manager</Password>
+		</User>
+		<User>
+			<Name>Ahmed Elgamal</Name>
+			<Role>premiumClient</Role>
+			<Username>AhmedoElgamal</Username>
+			<Password>Ahmed2000</Password>
+		</User>
+		<User>
+			<Name>Mahmoud Hossam</Name>
+			<Role>Client</Role>
+			<Username>Kassem_31</Username>
+			<Password>Mahmoud1999</Password>
+		</User>
+		<User>
+			<Name>Jack Hopper</Name>
+			<Role>Client</Role>
+			<Username>jack</Username>
+			<Password>jackHopper</Password>
+		</User>
+		<User>
+			<Name>Tom Dave</Name>
+			<Role>premiumClient</Role>
+			<Username>Tom</Username>
+			<Password>Tom_Dave</Password>
+		</User>
+		<User>
+			<Name>Alfred Dave</Name>
+			<Role>Cooker</Role>
+			<Username>alfred</Username>
+			<Password>alfred_cooker</Password>
+		</User>
+		<User>
+			<Name>George Robin</Name>
+			<Role>Cooker</Role>
+			<Username>george</Username>
+			<Password>george_cooker</Password>
+		</User>
+		<User>
+			<Name>Max Steven</Name>
+			<Role>Waiter</Role>
+			<Username>maxine</Username>
+			<Password>max_waiter</Password>
+		</User>
+		<User>
+			<Name>John Holmes</Name>
+			<Role>Waiter</Role>
+			<Username>johnny</Username>
+			<Password>john_waiter</Password>
+		</User>
+<User>
+<Name>Ahmed Aly</Name>
+<Role>Client</Role>
+<Username>ahmed_aly</Username>
+<Password>ahmed123</Password>
+</User>
+</Users>
+	<Tables>
+		<Table>
+			<Number>1</Number>
+			<Seats>2</Seats>
+			<Smoking>false</Smoking>
+		</Table>
+		<Table>
+			<Number>2</Number>
+			<Seats>2</Seats>
+			<Smoking>true</Smoking>
+		</Table>
+		<Table>
+			<Number>3</Number>
+			<Seats>4</Seats>
+			<Smoking>false</Smoking>
+		</Table>
+		<Table>
+			<Number>4</Number>
+			<Seats>4</Seats>
+			<Smoking>true</Smoking>
+		</Table>
+		<Table>
+			<Number>5</Number>
+			<Seats>6</Seats>
+			<Smoking>false</Smoking>
+		</Table>
+		<Table>
+			<Number>6</Number>
+			<Seats>6</Seats>
+			<Smoking>true</Smoking>
+		</Table>
+		<Table>
+			<Number>7</Number>
+			<Seats>8</Seats>
+			<Smoking>false</Smoking>
+		</Table>
+		<Table>
+			<Number>8</Number>
+			<Seats>12</Seats>
+			<Smoking>false</Smoking>
+		</Table>
+	</Tables>
+	<Dishes>
+		<Dish>
+			<Name>Grilled Chicken</Name>
+			<Price>75</Price>
+			<Type>main_course</Type>
+		</Dish>
+		<Dish>
+			<Name>Greek Salad</Name>
+			<Price>35</Price>
+			<Type>appetizer</Type>
+		</Dish>
+		<Dish>
+			<Name>Fried Potatoes</Name>
+			<Price>30</Price>
+			<Type>appetizer</Type>
+		</Dish>
+		<Dish>
+			<Name>Apple Pie</Name>
+			<Price>50</Price>
+			<Type>dessert</Type>
+		</Dish>
+		<Dish>
+			<Name>Molten Cake</Name>
+			<Price>60</Price>
+			<Type>dessert</Type>
+		</Dish>
+		<Dish>
+			<Name>Mushroom Soup</Name>
+			<Price>60</Price>
+			<Type>main_course</Type>
+		</Dish>
+		<Dish>
+			<Name>Beef Steak</Name>
+			<Price>80</Price>
+			<Type>main_course</Type>
+		</Dish>
+		<Dish>
+			<Name>Pasta</Name>
+			<Price>40</Price>
+			<Type>main_course</Type>
+		</Dish>
+		<Dish>
+			<Name>Fried Chicken</Name>
+			<Price>70</Price>
+			<Type>main_course</Type>
+		</Dish>
+</Dishes>
+
+
+
+
+
+</Restaurant>
